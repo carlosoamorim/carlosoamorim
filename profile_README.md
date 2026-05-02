@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Carlos+Amorim;MSc+Data+Science+%40+Nova+IMS;ML+%7C+Deep+Learning+%7C+Energy+Systems;Building+the+Iberian+grid+of+the+future." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hello+there!%2C+I'm+Carlos;MSc+Data+Science+%40+Nova+IMS;ML+%7C+Deep+Learning+%7C+Energy+Systems;Building+the+Iberian+grid+of+the+future." alt="Typing SVG" />
 
 <br/>
 
@@ -22,9 +22,9 @@ Before the master's, I worked at **Oney Bank** doing financial analytics — clu
 
 ```python
 carlos = {
-    "currently"  : "MSc Data Science & Advanced Analytics @ Nova IMS (2027)",
-    "thesis"     : "Probabilistic forecasting + RL dispatch · Iberian energy grid",
-    "background" : "Financial analytics · Oney Bank",
+    "currently"  : "MSc. Data Science & Advanced Analytics @ NOVA IMS (2027)",
+    "thesis"     : "Probabilistic forecasting + RL dispatch, Iberian energy grid",
+    "background" : "Financial analytics, Oney Bank",
     "location"   : "Lisbon, Portugal",
     "languages"  : ["Portuguese", "English C2", "Spanish B2", "German A2"],
 }
