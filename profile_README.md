@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlosortaamorim)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clnoamorim@gmail.com)
-[![Nova IMS](https://img.shields.io/badge/Nova%20IMS-003087?style=for-the-badge&logo=academia&logoColor=white)](https://www.novaims.unl.pt/)
+[![Nova IMS](https://img.shields.io/badge/Nova%20IMS-003087?style=for-the-badge&logo=academia&logoColor=white)](https://www.novaims.unl.pt/en/)
 
 </div>
 
@@ -14,9 +14,9 @@
 
 ## About Me
 
-I'm a Data Scientist and MSc student at **Nova IMS** (ranked #1 in Data Analytics in Western Europe) building at the intersection of **machine learning and energy systems**.
+I'm a Data Scientist and MSc student at **NOVA IMS** (ranked #1 in Data Analytics in Western Europe) building at the intersection of **machine learning and energy systems**.
 
-My thesis is focused on the **Iberian power grid** — probabilistic forecasting of grid frequency deviations and reinforcement learning for battery dispatch under MIBEL price signals. The April 2025 Iberian blackout made this work feel a lot less academic.
+My thesis is focused on the **Iberian power grid**, on probabilistic forecasting of grid frequency deviations and reinforcement learning for battery dispatch under MIBEL price signals. The April 2025 Iberian blackout made this work feel a lot less academic.
 
 Before the master's, I worked at **Oney Bank** doing financial analytics — clustering, propensity modelling, Power BI dashboards — which is where I first realised that the gap between a model and a decision is mostly a data quality problem.
 
