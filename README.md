@@ -14,11 +14,11 @@
 
 ## About Me
 
-I'm a Data Scientist and MSc student at **NOVA IMS** (ranked #1 in Data Analytics in Western Europe) building at the intersection of **machine learning and energy systems**.
+I'm a Data Scientist and MSc student at **NOVA IMS** (ranked #1 in Data Analytics in Western Europe) currently building at the intersection of **machine learning and energy systems**.
 
-My thesis is focused on the **Iberian power grid**, on probabilistic forecasting of grid frequency deviations and reinforcement learning for battery dispatch under MIBEL price signals. The April 2025 Iberian blackout made this work feel a lot less academic.
+My thesis is focused on the **Iberian power grid**, on probabilistic forecasting of grid frequency deviations and reinforcement learning for battery dispatch under MIBEL price signals.
 
-Before the master's, I worked at **Oney Bank** doing financial analytics — clustering, propensity modelling, Power BI dashboards — which is where I first realised that the gap between a model and a decision is mostly a data quality problem.
+Before the master's, and during my BSc. in Information Systems, I worked at **Oney Bank** doing financial analytics (clustering, propensity modelling, Power BI dashboards) which is where I first realised that the gap between a model and a decision is mostly a data quality problem.
 
 ```python
 carlos = {
@@ -129,7 +129,7 @@ Placed in the **upper quartile** of the course Kaggle leaderboard. Includes a Gr
 
 <div align="center">
 
-*"The goal is not to predict the future — it's to make better decisions under uncertainty."*
+*"The goal is not to predict the future, it is to make better decisions under uncertainty."*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=carlosoamorim&color=00d9ff&style=flat-square&label=profile+views)
 
