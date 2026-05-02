@@ -66,8 +66,8 @@ carlos = {
 
 ## Featured Projects
 
-### [WikiArt Painter Classification](https://github.com/carlosoamorim/wikiart-painter-classification)
-> Artist attribution from pixels alone — a genuinely hard vision problem.
+### [WikiArt Painter Classification](https://github.com/carlosoamorim/wikiart-artist-classification)
+> Artist attribution from pixels alone, a computer vision problem.
 
 Classified paintings across **23 artists** on a 13,172-image subset of WikiArt using a progressive fine-tuning pipeline and softmax ensemble.
 
@@ -84,7 +84,7 @@ Key finding: standard augmentation pipelines built for natural images actively h
 
 ---
 
-### [Used Car Price Prediction](https://github.com/rmmandrade/ml2526)
+### [Used Car Price Prediction](https://github.com/carlosoamorim/cars-4-you)
 > End-to-end regression pipeline for a UK used car resale company.
 
 The core challenge was data quality: seller-provided brand and model fields contained hundreds of misspellings. Built a **hybrid fuzzy string matcher** (Levenshtein + token sort ratio) to standardise inputs before modelling.
