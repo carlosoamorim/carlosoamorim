@@ -5,8 +5,8 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlosortaamorim)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clnoamorim@gmail.com)
-[![Nova IMS](https://img.shields.io/badge/Nova%20IMS-003087?style=for-the-badge&logo=academia&logoColor=white)](https://www.novaims.unl.pt/en/)
+[![Mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clnoamorim@gmail.com)
+[![NOVA IMS](https://img.shields.io/badge/Nova%20IMS-003087?style=for-the-badge&logo=academia&logoColor=white)](https://www.novaims.unl.pt/en/)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a Data Scientist and MSc student at **NOVA IMS** (ranked #1 in Data Analytics in Western Europe) currently building at the intersection of **machine learning and energy systems**.
+I'm a Data Scientist and MSc. student at **NOVA IMS** (ranked #1 in Data Analytics in Western Europe) currently building at the intersection of **machine learning and energy systems**.
 
 My thesis is focused on the **Iberian power grid**, on probabilistic forecasting of grid frequency deviations and reinforcement learning for battery dispatch under MIBEL price signals.
 
